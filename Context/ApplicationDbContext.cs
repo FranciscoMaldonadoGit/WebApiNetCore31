@@ -15,7 +15,7 @@ namespace ApiLibros.Context
         
         }
 
-        public DbSet<Autor> Autores;
+        public DbSet<Autor> Autores { get; set; }
 
     }
 }
