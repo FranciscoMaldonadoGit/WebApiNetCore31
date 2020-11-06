@@ -8,7 +8,7 @@ namespace ApiLibros.Controllers
 {
     [Route("api/[Controller]")] //api/Autor
     [ApiController]
-    public class AutorController: ControllerBase
+    public class AutoresController: ControllerBase
     {
 
     }
